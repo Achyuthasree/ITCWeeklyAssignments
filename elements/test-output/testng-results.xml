@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-22T11:44:07 UTC" name="Default suite" finished-at="2025-07-22T11:44:16 UTC" duration-ms="9168">
+    <groups>
+    </groups>
+    <test started-at="2025-07-22T11:44:07 UTC" name="Default test" finished-at="2025-07-22T11:44:16 UTC" duration-ms="9168">
+      <class name="elements.FormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:elements.FormTest@7714e963]" started-at="2025-07-22T11:44:07 UTC" name="setUp" finished-at="2025-07-22T11:44:15 UTC" duration-ms="7339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fillForm()[pri:0, instance:elements.FormTest@7714e963]" started-at="2025-07-22T11:44:15 UTC" name="fillForm" finished-at="2025-07-22T11:44:16 UTC" duration-ms="1381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:elements.FormTest@7714e963]" started-at="2025-07-22T11:44:16 UTC" name="tearDown" finished-at="2025-07-22T11:44:16 UTC" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- elements.FormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
